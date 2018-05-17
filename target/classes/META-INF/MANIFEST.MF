@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: hp
+Build-Jdk: 1.8.0_40
+Created-By: Maven Integration for Eclipse
+Implementation-Title: com.fuguanghua.netty.netty-ftp-server
+Implementation-Vendor: 
+Implementation-Version: 
+Specification-Title: netty-ftp-server-lib
+Specification-Vendor: 
+Specification-Version: 0.0.1-SNAPSHOT
+X-Git-Branch: 
+X-Git-Commits-Count: 
+X-Git-Tag: 
+

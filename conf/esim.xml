@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esim>
+		<serverType>active</serverType>
+		<serverIP>127.0.0.1</serverIP>
+		<serverPort>2121</serverPort>
+		<fromPath>C:/Users/hp/from</fromPath>
+		<toPath>C:/Users/hp/to</toPath>
+		<sfilename>send.txt</sfilename>
+		<rfilename>receieve.txt</rfilename>
+		<username>hp</username>
+		<passwd>tangting0417</passwd>
+		<scheduletimer>10</scheduletimer>
+</esim>
